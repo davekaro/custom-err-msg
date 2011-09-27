@@ -1,8 +1,7 @@
 require 'rubygems'
 require 'active_record'
-require 'rake/gempackagetask'
+require 'rubygems/package_task'
 require 'rubygems/specification'
-require 'rake/rdoctask'
 require 'rspec/core/rake_task'
 
 desc "Run all examples"
