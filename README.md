@@ -1,3 +1,8 @@
+Fork changes
+============
+
+I modified the gem to work with Rails 3.1. This probably broke compatibility with Rails 3.0, but should still work fine with Rails 2.x.
+
 Custom Error Message
 ====================
 

@@ -1,13 +1,13 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = 'custom_error_message'
-  s.version = "1.1.0.pre3"
+  s.name = 'davekaro-custom_error_message'
+  s.version = "1.2.1.pre"
   
   s.platform = Gem::Platform::RUBY
-  s.authors = ["David Easley", "Jeremy Durham"]
-  s.email = %q{jeremydurham@gmail.com}
-  s.homepage = 'http://github.com/jeremydurham/custom-err-msg'
+  s.authors = ["David Easley", "Jeremy Durham", "Dave Kroondyk"]
+  s.email = %q{davekaro@gmail.com}
+  s.homepage = 'http://github.com/davekaro/custom-err-msg'
   s.summary = 'Custom Error Message plugin for Rails'
   s.description = 'This plugin gives you the option to not have your custom validation error message prefixed with the attribute name'
 
